@@ -1,6 +1,6 @@
 {
   "version": "2.3.0",
-  "description": "Minecraft server plugin manager with multi-source updates",
+  "description": "A sophisticated Minecraft server plugin manager with multi-source update checking, sync/backup workflows, and a modern terminal UI",
   "homepage": "https://github.com/NindroidA/pluginator",
   "license": {
     "identifier": "Proprietary"
