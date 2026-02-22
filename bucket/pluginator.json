@@ -1,5 +1,5 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "A sophisticated Minecraft server plugin manager with multi-source update checking, sync/backup workflows, and a modern terminal UI",
   "homepage": "https://github.com/NindroidA/pluginator",
   "license": {
@@ -7,9 +7,9 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/NindroidA/pluginator/releases/download/v2.3.3/pluginator-2.3.3-windows-x64.zip",
-      "hash": "6bb31ffbb4fa9e25676aeda11e2e3c85b375aea4f69687d6ce62b9e3ea32f62e",
-      "pre_install": "Rename-Item \"$dir\\pluginator-2.3.3-windows-x64.exe\" 'pluginator.exe'"
+      "url": "https://github.com/NindroidA/pluginator/releases/download/v2.3.4/pluginator-2.3.4-windows-x64.zip",
+      "hash": "3bcd13660b2c809be3a7435c35c212c9ca716bf23c0665614a4e742a71adabca",
+      "pre_install": "Rename-Item \"$dir\\pluginator-2.3.4-windows-x64.exe\" 'pluginator.exe'"
     }
   },
   "bin": "pluginator.exe",
